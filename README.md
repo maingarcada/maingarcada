@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maingarcada
+- 👋 Hi, I’m @maing185
 - 👀 I’m interested in and willing to accept tech-based challenges
 - 🌱 My main major is digital marketing and I am currently following courses of PowerBI and SQL  
 - 💞️ I’m looking to collaborate and learn something amazing from cross-functional teams
